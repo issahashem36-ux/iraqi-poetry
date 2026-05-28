@@ -1,1 +1,9 @@
 
+{
+  "short_name": "شعر عراقي",
+  "name": "شعر عراقي - عبارات وقصائد",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#120800",
+  "background_color": "#05030a"
+}
